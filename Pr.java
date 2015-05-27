@@ -3,10 +3,11 @@ package cademika.com;
 public class Pr {
 
 	public static void main(String[] args) {
-		while (true) {
-			System.out.println(generation());
-			
-		}
+		System.out.println("Hello world!!!");
+//		while (true) {
+//			System.out.println(generation());
+//			
+//		}
 	}
 
 	static int generation() {
